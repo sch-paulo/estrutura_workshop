@@ -7,7 +7,7 @@ def load_excel(
     dataframe: pd.DataFrame, output_path: str, filename: str
 ) -> str:
     """
-    Receber um dataframe e salvar como excel
+    Receber um dataframe e salvar como excel.
 
     args:
     dataframe (pd.DataFrame): DataFrame a ser salvo como Excel
